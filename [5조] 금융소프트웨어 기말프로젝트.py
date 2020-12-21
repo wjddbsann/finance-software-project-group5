@@ -1,7 +1,7 @@
 import pandas as pd  # 다양한 파일 형식의 데이터 가져올 수 있게 하는 패키지
 import numpy as np  # 연산을 위한 패키지
 import matplotlib.pyplot as plt  # 그래프를 그리게 해주는 패키지
-import math
+import math # 복잡한 연산을 위한 
 
 # 해당 링크는 한국거래소에서 상장법인목록을 엑셀로 다운로드하는 링크입니다.
 # 다운로드와 동시에 Pandas에 excel 파일이 load가 되는 구조입니다.
